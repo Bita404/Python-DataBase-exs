@@ -1,0 +1,6 @@
+{
+  "connection": "mongodb://localhost:27017/",
+  "db_name": "student_management",
+  "students_collection": "students",
+  "logs": "logs"
+}
